@@ -1,4 +1,6 @@
-# Angular datatable with JSON
+# Angular datatable with Observable (JSON)
+
+Example how use angular datatable with sort and filtering with json data
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
 
