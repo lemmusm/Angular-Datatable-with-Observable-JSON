@@ -1,10 +1,12 @@
-# Angular datatable with Observable (JSON)
+# Angular datatable with Observable (JSON) using <a href="/gif/-TqJ-CN" title=""><img src="https://restcountries.eu/" alt="">REST Countries</a> API
 
 Example how use angular datatable with sort and filtering with json data
 
+<a href="/gif/-TqJ-CN" title=""><img src="https://i.makeagif.com/media/8-12-2018/TqJ-CN.gif" alt=""></a>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
 
-## Install Angular-Datatable
+## Install Angular-Datatable dependencies
 
 https://l-lin.github.io/angular-datatables/#/getting-started
 
